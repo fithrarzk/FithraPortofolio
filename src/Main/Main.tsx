@@ -129,13 +129,15 @@ export const Main = ({ className, ...props }: IMainProps): JSX.Element => {
           </a>
         </button>
         <button className="text-[#000000] text-left font-['Outfit',_sans-serif] text-xl font-medium absolute left-[999px] top-[51px] w-[138px] h-[30px] hover:rounded md:hover:bg-red-500 hover:transition duration-300">
-          EXPERIENCES{" "}
+          <a href="#experiences">EXPERIENCES{" "}</a>
         </button>
         <button className="text-left font-['Outfit',_sans-serif] text-xl font-medium absolute left-[1162px] top-[51px] w-[131px] h-[30px] hover:rounded md:hover:bg-red-500 hover:transition duration-300">
+          <a href="#contactMe">
           <span>
             <span className="contact-me-span">CONTACT </span>
             <span className="contact-me-span2 text-[#7B1919]">ME</span>
           </span>{" "}
+          </a>
         </button>
       </div>
       <div className="w-[379.9px] h-[515.04px] static">
@@ -250,7 +252,7 @@ export const Main = ({ className, ...props }: IMainProps): JSX.Element => {
           <span className="my-talent-span2">Talent</span>
         </span>{" "}
       </div>
-      <div className="text-left font-['Outfit-Bold',_sans-serif] text-5xl font-bold absolute left-40 top-[2100px] w-[399px] h-[60px]" data-aos="fade-down">
+      <div id="project" className="text-left font-['Outfit-Bold',_sans-serif] text-5xl font-bold absolute left-40 top-[2100px] w-[399px] h-[60px]" data-aos="fade-down">
         <span>
           <span className="all-of-my-project-span">All of </span>
           <span className="all-of-my-project-span2 text-[#7B1919]">My Project</span>
@@ -284,16 +286,20 @@ export const Main = ({ className, ...props }: IMainProps): JSX.Element => {
         src="rectangle-130.png"
       />
       <div className="w-[190px] h-[57px] static">
-        <div className="bg-[#f44b4b] rounded-[30px] w-[190px] h-[53px] absolute left-[1015px] top-[2350px]" data-aos ="fade-right"></div>
-        <div className="text-[#ffffff] text-center font-['Outfit-Regular',_sans-serif] text-xl font-normal absolute left-[1015px] top-[2348px] w-[190px] h-[57px] flex items-center justify-center" data-aos ="fade-right">
-          LEARN MORE{" "}
+        <a href="https://www.canva.com/design/DAGH7p1he1U/mcXpn1VG5toYZzl2VgBYWA/edit?utm_content=DAGH7p1he1U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+          <div className="bg-[#f44b4b] rounded-[30px] w-[190px] h-[53px] absolute left-[1015px] top-[2350px]" data-aos ="fade-right"></div>
+          <div className="text-[#ffffff] text-center font-['Outfit-Regular',_sans-serif] text-xl font-normal absolute left-[1015px] top-[2348px] w-[190px] h-[57px] flex items-center justify-center" data-aos ="fade-right">
+            LEARN MORE{" "}
         </div>
+        </a>
       </div>
       <div className="w-[190px] h-[57px] static">
-        <div className="bg-[#f44b4b] rounded-[30px] w-[190px] h-[53px] absolute left-[1015px] top-[2925px]" data-aos ="fade-left"></div>
-        <div className="text-[#ffffff] text-center font-['Outfit-Regular',_sans-serif] text-xl font-normal absolute left-[1015px] top-[2923px] w-[190px] h-[57px] flex items-center justify-center" data-aos ="fade-left">
-          LEARN MORE{" "}
-        </div>
+        <a href="https://github.com/Labpro-21/if1210-2024-tubes-k07-f">
+          <div className="bg-[#f44b4b] rounded-[30px] w-[190px] h-[53px] absolute left-[1015px] top-[2925px]" data-aos ="fade-left"></div>
+          <div className="text-[#ffffff] text-center font-['Outfit-Regular',_sans-serif] text-xl font-normal absolute left-[1015px] top-[2923px] w-[190px] h-[57px] flex items-center justify-center" data-aos ="fade-left">
+            LEARN MORE{" "}
+          </div>
+        </a>
       </div>
       <div className="w-[190px] h-[57px] static">
         <div className="bg-[#f44b4b] rounded-[30px] w-[190px] h-[53px] absolute left-[235px] top-[2641px]" data-aos ="fade-right"></div>
@@ -319,7 +325,7 @@ export const Main = ({ className, ...props }: IMainProps): JSX.Element => {
         seperti elektronik konsumen (TV, kamera, audio), konsol game dan
         perangkat lunak, solusi profesional (serta layanan hiburan dan musik.{" "}
       </div>
-      <div className="text-center font-['Outfit-Bold',_sans-serif] text-5xl font-bold absolute left-[479px] top-[3109px] w-[482px] h-[60px]" data-aos ="fade-down"> 
+      <div id="experiences" className="text-center font-['Outfit-Bold',_sans-serif] text-5xl font-bold absolute left-[479px] top-[3109px] w-[482px] h-[60px]" data-aos ="fade-down"> 
         <span>
           <span className="my-experiences-span text-[#7B1919]">My </span>
           <span className="my-experiences-span2">Experiences</span>
@@ -365,7 +371,7 @@ export const Main = ({ className, ...props }: IMainProps): JSX.Element => {
         src="Group 34.png"
       />
       </button>
-      <div className="bg-[#000000] w-full h-[150px] absolute left-0 top-[3945px]"></div>
+      <div id="contactMe" className="bg-[#000000] w-full h-[150px] absolute left-0 top-[3945px]"></div>
       <img
         className="h-[237.48] w-[2019.72px] absolute left-[0px] top-[3875px]"
         src="Group 1000.png"
