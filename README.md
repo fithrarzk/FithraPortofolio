@@ -1,16 +1,14 @@
 
 <h1 align="left">About The Project</h1>
-<div align="center">
-<img>src="https://github.com/user-attachments/assets/35c8d885-06c7-449e-9e3e-2142fbc601c6"</img>
-</div>
-<p>
-This is my first portfolio website which displays many things related to myself, such as interests, talents, projects, achievements and contacts. 
+![readme](https://github.com/user-attachments/assets/d7d8039e-fac5-4dbe-9cfe-5d8b9dd4631d)
+
+<p>This is my first portfolio website which displays many things related to myself, such as interests, talents, projects, achievements and contacts. 
 This page can be seen at </p>
+
 <h1 align="left">Built With</h1>
-  <img src="![react](https://github.com/user-attachments/assets/556a409a-933b-4544-96bd-1f55c91023bd)" height="40"/>
-  <img width="12" />
-  <img src="![ts](https://github.com/user-attachments/assets/f21b9426-0f6e-4050-bfc1-8b5fce40760a)" height="40" />
-<h1 align="left">How to Run It</h1>
+<h3 align="left">1. Next.js</h3>
+<h3 align="left">2. Tailwind CSS</h3>
+<h3 align="left">2. Typescript</h3>
 
 * npm
   ```sh
