@@ -128,8 +128,8 @@ export const Main = ({ className, ...props }: IMainProps): JSX.Element => {
           PROJECTS{" "}
           </a>
         </button>
-        <button className="text-[#000000] text-left font-['Outfit',_sans-serif] text-xl font-medium absolute left-[999px] top-[51px] w-[138px] h-[30px] hover:rounded md:hover:bg-red-500 hover:transition duration-300">
-          <a href="#experiences">EXPERIENCES{" "}</a>
+        <button className="text-[#000000] text-left font-['Outfit',_sans-serif] text-xl font-medium absolute left-[990px] top-[51px] w-[138px] h-[30px] hover:rounded md:hover:bg-red-500 hover:transition duration-300">
+          <a href="#achievements">ACHIEVEMENTS{" "}</a>
         </button>
         <button className="text-left font-['Outfit',_sans-serif] text-xl font-medium absolute left-[1162px] top-[51px] w-[131px] h-[30px] hover:rounded md:hover:bg-red-500 hover:transition duration-300">
           <a href="#contactMe">
@@ -273,7 +273,7 @@ export const Main = ({ className, ...props }: IMainProps): JSX.Element => {
       <img
         className="w-[305px] h-[182px] absolute left-[235px] top-[2219px]" data-aos ="fade-left"
         style={{ objectFit: "cover" }}
-        src="rectangle-120.png"
+        src="makrab.jpg"
       />
       <img
         className="w-[305px] h-[182px] absolute left-[235px] top-[2798px]" data-aos ="fade-right"
@@ -283,7 +283,7 @@ export const Main = ({ className, ...props }: IMainProps): JSX.Element => {
       <img
         className="w-[305px] h-[182px] absolute left-[900px] top-[2507px]" data-aos ="fade-left"
         style={{ objectFit: "cover" }}
-        src="rectangle-130.png"
+        src="tubes.png"
       />
       <div className="w-[190px] h-[57px] static">
         <a href="https://www.canva.com/design/DAGH7p1he1U/mcXpn1VG5toYZzl2VgBYWA/edit?utm_content=DAGH7p1he1U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
@@ -308,10 +308,9 @@ export const Main = ({ className, ...props }: IMainProps): JSX.Element => {
         </div>
       </div>
       <div className="text-[#ffffff] text-left font-['Outfit-Regular',_sans-serif] text-xl font-normal absolute left-[575px] top-[2219px] w-[610px] h-[109px]" data-aos="fade-up">
-        Platform resmi dari Apple Inc. yang berfungsi sebagai pusat informasi
-        dan penjualan produk-produk Apple. Situs ini menampilkan berbagai produk
-        unggulan seperti iPhone, iPad, Mac, Apple Watch, dan AirPods, lengkap
-        dengan fitur-fitur, spesifikasi teknis, dan harga.{" "}
+      <span className="font-semibold">STEI-Kesyen</span> merupakan kegiatan malam keakraban yang diadakan untuk massa Syntax ’23. 
+      STEI-Kesyen berhasil diadakan pada tanggal 4-5 Mei dan dihadiri oleh 262 massa yang mengikuti rangkaian acara, 
+      dengan rincian 89 panitia dan 173 peserta.{" "}
       </div>
       <div className="text-[#ffffff] text-left font-['Outfit-Regular',_sans-serif] text-xl font-normal absolute left-[574px] top-[2798px] w-[631px] h-[109px]" data-aos="fade-up">
         Portal resmi dari Nike, Inc., yang menampilkan berbagai produk dan
@@ -320,15 +319,13 @@ export const Main = ({ className, ...props }: IMainProps): JSX.Element => {
         anak-anak, dengan fokus pada inovasi dan performa atletik.{" "}
       </div>
       <div className="text-[#ffffff] text-right font-['Outfit-Regular',_sans-serif] text-xl font-normal absolute left-[255px] top-[2507px] w-[608px] h-[109px]" data-aos="fade-up">
-        Platform resmi Sony Corporation, yang menampilkan rangkaian produk dan
-        layanan inovatif dari Sony. Situs ini mencakup berbagai kategori produk
-        seperti elektronik konsumen (TV, kamera, audio), konsol game dan
-        perangkat lunak, solusi profesional (serta layanan hiburan dan musik.{" "}
+      Pada tugas besar Dasar Pemrograman IF1210, kami sebagai satu kelompok, diminta untuk membantu Agent P,  Purry si Platypus, 
+      untuk mengalahkan Dr. Asep Spakbor yang menciptakan monster-monster untuk mengancam keamanan kota Danville. {" "}
       </div>
-      <div id="experiences" className="text-center font-['Outfit-Bold',_sans-serif] text-5xl font-bold absolute left-[479px] top-[3109px] w-[482px] h-[60px]" data-aos ="fade-down"> 
+      <div id="achievements" className="text-center font-['Outfit-Bold',_sans-serif] text-5xl font-bold absolute left-[479px] top-[3109px] w-[482px] h-[60px]" data-aos ="fade-down"> 
         <span>
-          <span className="my-experiences-span text-[#7B1919]">My </span>
-          <span className="my-experiences-span2">Experiences</span>
+          <span className="my-achievements-span text-[#7B1919]">My </span>
+          <span className="my-achievements-span2">Achievements</span>
         </span>{" "}
       </div>
       <button>
