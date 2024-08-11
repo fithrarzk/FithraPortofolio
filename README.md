@@ -1,7 +1,7 @@
 
 <h1 align="left">About The Project</h1>
 <div align="center">
-![readme](https://github.com/user-attachments/assets/973b130d-2241-49ea-b602-9dc63bb6bbfc)
+![readme](https://github.com/user-attachments/assets/35c8d885-06c7-449e-9e3e-2142fbc601c6)
 </div>
 <p>
 This is my first portfolio website which displays many things related to myself, such as interests, talents, projects, achievements and contacts. 
