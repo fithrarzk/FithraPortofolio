@@ -10,15 +10,6 @@ This page can be seen at </p>
 <h3 align="left">2. Tailwind CSS</h3>
 <h3 align="left">2. Typescript</h3>
 
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-   ```sh
-   git clone https://github.com/farrelathalla/softeng.git
-   ```
-
    ```sh
    npm install
    ```
