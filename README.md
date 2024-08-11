@@ -31,7 +31,7 @@ This page can be seen at </p>
 
 <h1 align="left">Bonus</h1>
 
-- [x] Deployment on Vercel (https://softeng.vercel.app/)
+- [x] Deployment 
 - [ ] Responsive layout
 - [ ] Using CMS
 - [x] Creativity
