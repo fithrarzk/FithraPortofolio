@@ -1,7 +1,7 @@
 
 <h1 align="left">About The Project</h1>
 <div align="center">
-![readme](https://github.com/user-attachments/assets/35c8d885-06c7-449e-9e3e-2142fbc601c6)
+<img>src="https://github.com/user-attachments/assets/35c8d885-06c7-449e-9e3e-2142fbc601c6"</img>
 </div>
 <p>
 This is my first portfolio website which displays many things related to myself, such as interests, talents, projects, achievements and contacts. 
@@ -37,8 +37,8 @@ This page can be seen at </p>
 - [x] Creativity
 
 <h1 align="left">Problems</h1>
-<h3 align="left">1. Lack of experience<h3>
-<h3 align="left">2. Tried using figma, but had difficulty making it responsive<h3>
+<h3 align="left">1. Lack of experience</h3>
+<h3 align="left">2. Tried using figma, but had difficulty making it responsive</h3>
 
 <h1 align="left">Identities</h1>
 <h3 align="left"> Name : Muhammad Fithra Rizki </h3>
