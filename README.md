@@ -1,6 +1,8 @@
 
 <h1 align="left">About The Project</h1>
-![readme](https://github.com/user-attachments/assets/d7d8039e-fac5-4dbe-9cfe-5d8b9dd4631d)
+<img>
+src = "public/readme.png" 
+</img>
 
 <p>This is my first portfolio website which displays many things related to myself, such as interests, talents, projects, achievements and contacts. 
 This page can be seen at https://fithra-portofolio.vercel.app/</p>
@@ -8,7 +10,7 @@ This page can be seen at https://fithra-portofolio.vercel.app/</p>
 <h1 align="left">Built With</h1>
 <h3 align="left">1. Vite</h3>
 <h3 align="left">2. Tailwind CSS</h3>
-<h3 align="left">2. Typescript</h3>
+<h3 align="left">3. Typescript</h3>
 
 <h1 align="left">How to Run It</h1>
 
