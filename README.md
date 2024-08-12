@@ -1,7 +1,7 @@
 
 <h1 align="left">About The Project</h1>
 <img>
-src = "public/readme.png" 
+src = "[public/readme.png](https://github.com/fithrarzk/FithraPortofolio/blob/main/public/readme.png)" 
 </img>
 
 <p>This is my first portfolio website which displays many things related to myself, such as interests, talents, projects, achievements and contacts. 
