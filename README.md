@@ -1,7 +1,7 @@
 
 <h1 align="left">About The Project</h1>
 
-<img src="https://ibb.co.com/NxxpCDv" />
+<img src="https://ibb.co.com/NxxpCDv" /img>
 
 <p>This is my first portfolio website which displays many things related to myself, such as interests, talents, projects, achievements and contacts. 
 This page can be seen at https://fithra-portofolio.vercel.app/</p>
